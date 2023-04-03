@@ -11,6 +11,6 @@
 - 底部备案号配置
 
 ## 图：
-![image](./public/123.png)
+![image](https://i.ibb.co/Kr68Sqj/123.png)
 
 ### 有问题欢迎提issue
